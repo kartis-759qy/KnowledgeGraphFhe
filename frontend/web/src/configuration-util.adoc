@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\configuration-util.adoc
+// Generated at: 2025-10-11T12:58:57.201Z
